@@ -287,11 +287,12 @@ local RayfieldLibrary = {
 			SelectedTabTextColor = Color3.fromRGB(10, 20, 30),
 
 			-- Elements
-			ElementBackground = Color3.fromRGB(28, 32, 45),
-			ElementBackgroundHover = Color3.fromRGB(35, 42, 58),
-			SecondaryElementBackground = Color3.fromRGB(22, 26, 36),
-			ElementStroke = Color3.fromRGB(0, 170, 255),
-			SecondaryElementStroke = Color3.fromRGB(0, 100, 170),
+
+			ElementBackground = Color3.fromRGB(15, 45, 65), -- xanh nước sâu
+			ElementBackgroundHover = Color3.fromRGB(25, 60, 85), -- sáng hơn khi hover
+			SecondaryElementBackground = Color3.fromRGB(10, 35, 55), -- nền phụ hơi tối xanh
+			ElementStroke = Color3.fromRGB(0, 200, 255), -- viền xanh sáng (cyan)
+			SecondaryElementStroke = Color3.fromRGB(0, 140, 200), -- viền phụ xanh nước
 
 			-- Slider
 			SliderBackground = Color3.fromRGB(0, 80, 150),
