@@ -268,11 +268,11 @@ local RayfieldLibrary = {
 	Theme = {
 		Default = {
 			-- Màu chữ chính
-			TextColor = Color3.fromRGB(235, 245, 255),
+			TextColor = Color3.fromRGB(121, 189, 255),
 
 			-- Nền tổng thể (gradient nhẹ giữa xanh dương và xám đậm)
-			Background = Color3.fromRGB(20, 24, 36),
-			Topbar = Color3.fromRGB(26, 30, 42),
+			Background = Color3.fromRGB(73, 119, 180),
+			Topbar = Color3.fromRGB(95, 149, 217),
 			Shadow = Color3.fromRGB(10, 10, 14),
 
 			-- Thông báo
